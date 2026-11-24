@@ -7,7 +7,7 @@ Source: [`coin-cell-sleeve/battery_daddy_coin_sleeve.scad`](../coin-cell-sleeve/
 **Status (2026-11-23):**
 - **AA sleeves are DONE** (v2.6): LR44, LR621 and LR754 are printed and confirmed to fit perfectly.
 - **D fit test:** of the test cups at 33.37 / 33.17 / 32.97 / 32.77 OD, **32.97 was perfect**. The Battery Daddy D slots seem to taper, narrower at the bottom.
-- **v2.8 D sleeves** (CR1620, CR2032, CR2025) use a 32.968 OD tube. Not yet printed.
+- **D sleeves are DONE** (v2.8): CR1620, CR2032 and CR2025 use a 32.968 OD tube; all three are printed and confirmed to work.
 
 ## Lessons
 - **Keep tube walls at 0.7 mm or more** (0.4 nozzle). A 0.708 wall prints true; 0.60 printed as about 0.80 and grew the OD by about 0.17.
@@ -27,7 +27,7 @@ Source: [`coin-cell-sleeve/battery_daddy_coin_sleeve.scad`](../coin-cell-sleeve/
 - **Assembly height = battery height** (AA about 50.5, D about 61.5, minus 0.2), so the cartridge can't slide out when the case is inverted.
 
 ## Final fits
-| | AA (v2.6, proven) | D (v2.8, fit-tested OD) |
+| | AA (v2.6, proven) | D (v2.8, proven) |
 |---|---|---|
 | Tube OD (model) | 14.23 (prints about 14.20) | 32.968 |
 | Tube ID | 12.814 | 31.158 |
