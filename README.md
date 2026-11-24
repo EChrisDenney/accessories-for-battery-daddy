@@ -14,16 +14,16 @@ Each sleeve has three parts:
 - A **cartridge** that slides into the tube. Each cell sits in its own pocket, and shelves keep the cells from touching.
 - A snap-on **cap** with the cell name in a second color, so you can read it through the clear lid.
 
-To use it, pull the sleeve out, pop the cap, slide the cartridge out, tip out one cell and put it all back.
+To use it, pull the sleeve out, tip out one cell and put it all back.
 
 | Cell | Also sold as | Slot | Cells per sleeve | Status |
 |---|---|---|---|---|
 | LR44 | AG13, 357, A76 | AA | 6 | Printed and confirmed |
 | LR621 | AG1, 364 | AA | 11 | Printed and confirmed |
 | LR754 | AG5, 393 | AA | 6 | Printed and confirmed |
-| CR1620 | | D | 15 | Fit-tested tube; full sleeve not printed yet |
-| CR2032 | | D | 11 | Fit-tested tube; full sleeve not printed yet |
-| CR2025 | | D | 13 | Fit-tested tube; full sleeve not printed yet |
+| CR1620 | | D | 15 | Printed and confirmed |
+| CR2032 | | D | 11 | Printed and confirmed |
+| CR2025 | | D | 13 | Printed and confirmed |
 
 ### Download
 

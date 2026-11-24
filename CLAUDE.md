@@ -4,7 +4,7 @@
 
 ## Status (2026-11-23)
 - **AA coin-cell sleeves (LR44, LR621, LR754) are DONE.** v2.6 geometry was printed and confirmed perfect. **Don't change the AA sizing.**
-- **D sleeves (CR1620, CR2032, CR2025), v2.8:** the tube OD of 32.968 mm comes from a fit test ("32.97 is perfect"). The full sleeves are not printed yet. Next step: Chris prints them and reports back.
+- **D coin-cell sleeves (CR1620, CR2032, CR2025) are DONE.** v2.8 (tube OD 32.968 mm, from the fit test) was printed and confirmed to work. **Don't change the D sizing.**
 
 ## Working rules
 - Chris prints on a Bambu X1C with AMS: white body (filament 1), blue label (filament 2).
