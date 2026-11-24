@@ -32,7 +32,7 @@ Ready-to-print files are on the [Releases](../../releases) page:
 - Bambu Studio plates (`.3mf`): the cap text is already set to filament 2.
 - Plain STLs for any slicer.
 
-They are also on [MakerWorld](https://makerworld.com/en/models/3673397-coin-cell-sleeves-for-battery-daddy-lr44-621-754) (LR44, LR621 and LR754, with ready-to-print Bambu profiles). A Printables link is to come.
+They are also on [MakerWorld](https://makerworld.com/en/models/3673397-coin-cell-sleeves-for-battery-daddy-lr44-621-754) (LR44, LR621 and LR754, with ready-to-print Bambu profiles).
 
 ### Printing
 
